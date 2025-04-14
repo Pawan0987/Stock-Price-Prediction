@@ -6,3 +6,4 @@ Designed and built predictive models, including LSTMs and traditional machine le
 Collected, cleaned, and preprocessed historical stock data, fine-tuned models, and incorporated error handling to ensure reliable performance and precise forecasting.
 
 Evaluated predictions and created intuitive dashboards with accessible visualizations to present stock price trends and model comparisons effectively.
+Still work is going on for better results. I always keep improving models by doing some optimizations. 
